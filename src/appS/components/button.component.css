@@ -1,0 +1,10 @@
+h1 {
+  color: fuchsia;
+}
+
+button {
+  padding: 10px;
+  color: rgb(221, 63, 6);
+  background-color: rgb(24, 22, 22);
+  border-radius: 25px;
+}
